@@ -1,9 +1,9 @@
 let spaceship = {
     crew: {
     captain: { 
-        name: 'Lily', 
+        name: 'Tony', 
         degree: 'Computer Engineering', 
-        cheerTeam() { console.log('You got this!') } 
+        cheerTeam() { console.log('Good Luck!') } 
         },
     'chief officer': { 
         name: 'Dan', 
